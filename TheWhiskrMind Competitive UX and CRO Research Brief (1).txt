@@ -1,0 +1,2432 @@
+
+
+
+    Act as a senior UX researcher, CRO consultant, information architect, digital-product strategist, content-funnel analyst and conversion-focused content strategist.
+
+    Your task is to conduct an evidence-led competitive UX, CRO, content and funnel analysis for TheWhiskrMind, and then use the findings to recommend a stronger website and digital-product ecosystem.
+
+    Do not copy competitor wording, layouts, branding, product structures, identities, claims or distinctive creative assets.
+
+    Do not assume that:
+
+    A visually attractive website converts well
+
+    A large social-media audience produces sales
+
+    Public engagement metrics represent commercial performance
+
+    A competitor testimonial or statistic is independently verified
+
+    A persuasive health or finance claim is legally or ethically appropriate
+
+    A competitor’s business model is suitable for TheWhiskrMind
+
+    Immediate purchase should be the main conversion on every page
+
+    All three TheWhiskrMind universes have the same audience
+
+    Two to three weeks of content performance is enough for a final business decision
+
+    Use only evidence that can be observed, measured or supplied. Where evidence is unavailable, clearly label the conclusion as an inference, hypothesis or unresolved question.
+
+    
+    1. Project overview
+
+    
+    Business name
+
+    TheWhiskrMind
+
+    
+    
+    Brand tagline
+
+    “Where deep thinking meets real living.”
+
+    
+    
+    Business description
+
+    TheWhiskrMind is a parent creator-led digital-media and digital-product brand containing separate content universes.
+
+    The currently proposed universes are:
+
+    
+    Magnus Universe
+
+    A cinematic entertainment universe based on Magnus, a real cat.
+
+    Real photographs and reference material of Magnus will be used to create AI-assisted cinematic stories, recurring characters, episodes and digital content.
+
+    Magnus must be positioned as a real cat featured in AI-assisted cinematic storytelling, not as a completely synthetic AI animal or a customer-operated AI pet-generation tool.
+
+    Possible products include:
+
+    Magnus wallpaper and sticker pack
+
+    Magnus digital artwork
+
+    Magnus digital art book
+
+    Future episode collections
+
+    Future character merchandise
+
+    Future licensing or partnership opportunities
+
+    Proposed initial pricing:
+
+    Wallpaper and sticker pack: approximately $5
+
+    Digital art book: approximately $9
+
+    These prices are provisional and must not be treated as validated.
+
+    
+    
+    Finance Universe
+
+    A financial-mindset and money-education universe presented through an AI-created persona.
+
+    The content may use:
+
+    Financial storytelling
+
+    General financial perspectives
+
+    Financial habits
+
+    Money-mindset frameworks
+
+    Educational explanations
+
+    Budgeting and planning tools
+
+    It must not:
+
+    Present personalised financial or investment advice
+
+    Promise wealth or guaranteed financial outcomes
+
+    Fabricate professional credentials
+
+    Fabricate investment experience
+
+    Present the AI persona as a real financial adviser
+
+    Invent personal history, relationships or achievements
+
+    Mislead users about the persona’s identity
+
+    Possible products include:
+
+    “The Wealth Mindset — 10 Money Myths That Keep You Broke”
+
+    Personal-finance tracker
+
+    Budgeting or planning templates
+
+    Future finance education products
+
+    Proposed initial pricing:
+
+    Finance ebook: approximately $9–15
+
+    Personal-finance tracker: approximately $19
+
+    These titles, contents and prices remain provisional.
+
+    
+    
+    Health and Wellness Universe
+
+    A mental-clarity, reflective-living and daily-practice universe.
+
+    The content may focus on:
+
+    Curiosity
+
+    Calm thinking
+
+    Philosophy
+
+    Reflective living
+
+    Journaling
+
+    Intentional daily routines
+
+    General wellbeing education
+
+    Disciplined thinking
+
+    Mental clarity
+
+    Structured personal reflection
+
+    It must not:
+
+    Present TheWhiskrMind as a therapy provider
+
+    Diagnose medical or mental-health conditions
+
+    Claim to treat anxiety, depression, trauma or other health conditions
+
+    Make unsupported nervous-system, psychological or medical claims
+
+    Promise healing, recovery or clinical outcomes
+
+    Present unverified health claims as established facts
+
+    Possible products include:
+
+    “30-Day Clarity Practice”
+
+    Guided digital journal
+
+    Printable reflection workbook
+
+    General wellbeing education resources
+
+    Proposed initial pricing:
+
+    Health guide or journal: approximately $15–19
+
+    This product, content and pricing are provisional.
+
+    
+    
+    
+    Parent-brand model
+
+    The parent brand is intended to connect the universes through:
+
+    One parent website
+
+    One parent-brand identity
+
+    One About section
+
+    One shared shop
+
+    One shared cart
+
+    One shared checkout
+
+    One email platform
+
+    One future media-kit or partnership section
+
+    Shared editorial and AI-governance principles
+
+    However, each universe must maintain its own:
+
+    Audience
+
+    Content identity
+
+    Visual identity
+
+    Product positioning
+
+    Messaging
+
+    Funnel
+
+    Email preferences
+
+    Content categories
+
+    Trust requirements
+
+    Do not visually or conceptually blend the three universes into one undifferentiated identity.
+
+    
+    
+    
+    2. Business-model status
+
+    The proposed business model has not yet been validated through:
+
+    Website analytics
+
+    Customer interviews
+
+    Buyer interviews
+
+    Customer surveys
+
+    Confirmed sales data
+
+    Checkout data
+
+    Refund data
+
+    Email performance
+
+    Social-media conversion data
+
+    Usability testing
+
+    Product-market-fit evidence
+
+    All strategic recommendations must therefore distinguish between:
+
+    Launch requirement
+
+    Provisional recommendation
+
+    Hypothesis requiring validation
+
+    Post-launch improvement
+
+    Idea that should not be implemented without evidence
+
+    
+    
+    3. Working industry category
+
+    For research and information-architecture purposes, use this working description:
+
+    A multi-universe creator and digital-media brand selling content-led digital products.
+
+    This is a working strategic category, not a confirmed legal or formal industry classification.
+
+    Relevant connected categories include:
+
+    Creator-led digital media
+
+    Digital products
+
+    Content-led ecommerce
+
+    AI-assisted content production
+
+    Character-led entertainment
+
+    Pet entertainment
+
+    Financial education
+
+    Mindset education
+
+    General wellbeing education
+
+    Social-media publishing
+
+    
+    
+    4. Market and commercial context
+
+    Primary commercial market:
+
+    United States
+
+    Potential customer region:
+
+    Worldwide
+
+    Website language:
+
+    English
+
+    Primary currency:
+
+    US dollars
+
+    Do not assume that legal, tax, refund, privacy, accessibility, advertising or consumer-protection requirements are identical in every region.
+
+    Clearly flag any recommendation that may require:
+
+    United States legal review
+
+    International legal review
+
+    Finance-content review
+
+    Health-claims review
+
+    Tax review
+
+    Privacy review
+
+    Accessibility review
+
+    Ecommerce-policy review
+
+    
+    
+    5. Proposed audiences
+
+    The proposed audiences are business assumptions and have not yet been validated.
+
+    
+    Magnus audiences
+
+    Potential segments include:
+
+    Cat and pet-entertainment audiences
+
+    Viewers of pet-focused Instagram Reels and TikTok videos
+
+    People interested in cinematic animal storytelling
+
+    Fans of recurring characters and fictional story universes
+
+    Existing or future followers of Magnus
+
+    Buyers of inexpensive pet-related digital products
+
+    Buyers of wallpapers, sticker packs, artwork and digital collectibles
+
+    Potential licensing, media and collaboration partners
+
+    
+    
+    Finance audiences
+
+    Potential segments include:
+
+    People interested in financial-mindset content
+
+    People who consume personal-finance storytelling
+
+    People who lack a clear financial system
+
+    People experiencing general money confusion or anxiety
+
+    Buyers of entry-level financial education
+
+    Buyers of finance templates, planners and trackers
+
+    Social-media viewers attracted by cinematic finance storytelling
+
+    Potential priority segments requiring validation include:
+
+    Young working adults
+
+    Creators and freelancers
+
+    First-time financial planners
+
+    Small-business owners
+
+    People rebuilding their financial habits
+
+    Do not choose a final priority Finance segment without evidence.
+
+    
+    
+    Health and Wellness audiences
+
+    Potential segments include:
+
+    People interested in mental clarity
+
+    People seeking calmer and more intentional routines
+
+    People interested in philosophy and reflective living
+
+    People interested in psychology as general education
+
+    People interested in journaling
+
+    People interested in curiosity and disciplined thinking
+
+    Buyers of guided journals and clarity programmes
+
+    Buyers of general wellbeing education
+
+    Do not assume that these users are seeking therapy, diagnosis or clinical psychological support.
+
+    
+    
+    Additional audiences
+
+    The parent brand may also serve:
+
+    Newsletter subscribers
+
+    Returning visitors
+
+    Existing social followers
+
+    Digital-product buyers
+
+    Repeat buyers
+
+    Bundle buyers
+
+    Sponsors
+
+    Collaboration partners
+
+    Media partners
+
+    Licensing partners
+
+    
+    
+    
+    6. Proposed website
+
+    Proposed domain:
+
+    https://thewhiskrmind.com/
+
+    The website’s live status has not been confirmed.
+
+    Before analysing it, determine and report whether the domain is:
+
+    Live
+
+    Under development
+
+    Inaccessible
+
+    Redirected
+
+    Parked
+
+    Not yet launched
+
+    Do not assume that an inaccessible website does not exist.
+
+    
+    Proposed routes
+
+    /magnus
+
+    /finance
+
+    /health
+
+    /shop
+
+    /about
+
+    /newsletter
+
+    /editorial-policy
+
+    /disclosures
+
+    Additional routes may be recommended only where they support a clear user or business requirement.
+
+    
+    
+    Intended website model
+
+    The website is intended to contain:
+
+    A parent homepage
+
+    Separate universe landing pages
+
+    A shared shop
+
+    A shared cart and checkout
+
+    A unified technical email platform
+
+    A preference-based email segmentation system
+
+    Parent-brand trust information
+
+    Clear AI disclosures
+
+    Editorial disclosures
+
+    Finance disclaimers
+
+    Wellness disclaimers
+
+    Future partnership and media information
+
+    
+    
+    
+    7. Proposed acquisition channels
+
+    Confirmed or explicitly planned channels include:
+
+    Instagram
+
+    TikTok
+
+    Short-form social video
+
+    Social-media profile links
+
+    Content-driven traffic
+
+    Newsletter and email retention
+
+    Channels not yet confirmed include:
+
+    Organic search
+
+    Google Ads
+
+    Meta advertising
+
+    YouTube
+
+    Pinterest
+
+    Affiliate marketing
+
+    Influencer collaborations
+
+    Creator partnerships
+
+    Sponsorship traffic
+
+    Public relations
+
+    Direct traffic
+
+    Referral traffic
+
+    Do not invent performance expectations for any acquisition channel.
+
+    
+    Proposed Magnus journey
+
+    Magnus Reel or TikTok video
+→ Magnus landing page
+→ understand who Magnus is
+→ view another episode or story
+→ join the Magnus email segment or purchase a low-cost product
+
+    
+    
+    Proposed Finance journey
+
+    Finance persona video
+→ Finance landing page
+→ understand the AI persona and educational purpose
+→ view a free lesson, sample or money-myth preview
+→ join the Finance email segment
+→ purchase the finance ebook
+→ consider the tracker or Finance-specific bundle
+
+    
+    
+    Proposed Health journey
+
+    Philosophy, reflection or mental-clarity video
+→ Health landing page
+→ understand the general-wellbeing purpose
+→ view a free practice or sample
+→ join the Health email segment
+→ purchase the clarity guide or journal
+
+    
+    
+    
+    8. Devices
+
+    Evaluate separately for:
+
+    Mobile
+
+    Desktop
+
+    Tablet where technically practical
+
+    Because social media is a planned acquisition channel, mobile landing-page usability should receive special attention.
+
+    However, do not claim a specific mobile-traffic percentage without analytics.
+
+    
+    
+    9. Competitor and benchmark set
+
+    Do not treat every supplied business as a direct competitor.
+
+    Classify each source before analysing it.
+
+    
+    AI pet and pet-generation benchmarks
+
+    WigglePet
+https://wigglepet.app/
+
+    Singing Pet
+https://singing.pet/
+
+    DreamFace AI Pet Influencer Generator
+https://www.dreamfaceapp.com/tools/ai-pet-influencer-generator
+
+    These are mainly relevant as:
+
+    AI pet-generation benchmarks
+
+    Product-interface benchmarks
+
+    Messaging-comparison benchmarks
+
+    Indirect alternatives
+
+    Examples of possible confusion between owned entertainment and user-operated generation tools
+
+    They are not exact business-model matches for Magnus.
+
+    
+    
+    Character-led entertainment and commerce benchmarks
+
+    Include the following as recommended Magnus benchmarks where publicly accessible:
+
+    Pusheen
+
+    Simon’s Cat
+
+    Nala Cat
+
+    Grumpy Cat
+
+    Use these to study:
+
+    Recurring character identity
+
+    Real-cat versus fictional-character positioning
+
+    Content archives
+
+    Character-led commerce
+
+    Merchandise
+
+    Story continuity
+
+    Audience fandom
+
+    Licensing
+
+    Content-to-shop journeys
+
+    Brand memorability
+
+    Select at least one AI pet-generation tool and at least two character-led entertainment brands for deep Magnus analysis.
+
+    
+    
+    Wellness and funnel benchmarks
+
+    Yang Mun
+https://yang-mun.com/
+
+    Yang Mun 30-Day Healing Journey
+https://www.yangmuns.com/
+
+    Use these to study:
+
+    Long-form digital-product funnels
+
+    Emotional storytelling
+
+    CTA repetition
+
+    Product bundling
+
+    Price presentation
+
+    Guarantee presentation
+
+    Transformation-focused copy
+
+    Testimonials
+
+    Checkout and refund communication
+
+    Do not treat health, psychological, emotional or transformation claims as valid simply because they appear on a competitor page.
+
+    Analyse such material through:
+
+    Persuasive pattern
+
+    Evidence displayed
+
+    Disclosure or qualification
+
+    Trust risk
+
+    Legal-review priority
+
+    Whether TheWhiskrMind should avoid the pattern
+
+    
+    
+    Finance website benchmarks
+
+    The supplied brief does not contain a complete Finance website competitor set.
+
+    Add or evaluate relevant public finance education and digital-product benchmarks such as:
+
+    The Budget Mom
+
+    Clever Girl Finance
+
+    Her First $100K
+
+    I Will Teach You to Be Rich
+
+    Classify them appropriately rather than automatically calling them direct competitors.
+
+    Use them to study:
+
+    Educational positioning
+
+    Free-versus-paid pathways
+
+    Finance disclaimers
+
+    Product structures
+
+    Ebook and template sales
+
+    Newsletter capture
+
+    Authority signals
+
+    Accessible financial language
+
+    Content-to-product journeys
+
+    Pricing transparency
+
+    
+    
+    Social-media benchmarks
+
+    Evaluate the supplied accounts as social-content, positioning and funnel benchmarks.
+
+    Do not assume that engagement translates into sales.
+
+    
+    AI-persona and creator benchmarks
+
+    itsyangmuns
+
+    yangmunus
+
+    omarwiseman_
+
+    thejingchen
+
+    Review:
+
+    AI-persona disclosure
+
+    Authority positioning
+
+    Emotional hooks
+
+    Storytelling
+
+    Comment-based calls to action
+
+    Lead-magnet use
+
+    Profile-link strategy
+
+    Trust risks
+
+    Financial or wellness claims
+
+    Relationship between content and paid products
+
+    
+    
+    Wisdom, psychology and philosophy benchmarks
+
+    dailystoic
+
+    the.holistic.psychologist
+
+    ryanholiday
+
+    successpictures
+
+    powerofpositivity
+
+    psych2go
+
+    Review:
+
+    Editorial territory
+
+    Human versus brand authority
+
+    Educational simplification
+
+    Source attribution
+
+    Shareability
+
+    Community building
+
+    Newsletter strategy
+
+    Clinical or psychological claim boundaries
+
+    Content-to-product continuity
+
+    Brand memorability
+
+    
+    
+    Business and mindset storytelling benchmarks
+
+    foundr
+
+    businessinsider
+
+    entrepreneur
+
+    successmagazine
+
+    motiversity
+
+    Review:
+
+    Headline construction
+
+    Business storytelling
+
+    Expert attribution
+
+    Founder stories
+
+    Lead-generation methods
+
+    Comment-to-DM funnels
+
+    Free-resource strategies
+
+    Motivation versus practical education
+
+    Content ownership and licensing risks
+
+    Do not classify large publishers as direct competitors without evidence.
+
+    
+    
+    
+    
+    10. Evidence-status system
+
+    Do not use the label “verified finding” without explaining how it was verified.
+
+    Assign one evidence status to every important finding:
+
+    
+    Publicly observed
+
+    Visible directly on a public website, checkout, policy page or social profile.
+
+    
+    
+    Tool-measured
+
+    Measured using an identified technical tool.
+
+    State:
+
+    Tool used
+
+    Date tested
+
+    Device or test environment
+
+    Whether the result is field data or laboratory data
+
+    
+    
+    First-party reported
+
+    Supplied by TheWhiskrMind, a competitor or an account owner.
+
+    A first-party claim is not automatically independently verified.
+
+    
+    
+    Third-party reported
+
+    Published by an external source.
+
+    State the source and reliability limitations.
+
+    
+    
+    User-tested
+
+    Observed during structured usability testing with representative or intended users.
+
+    
+    
+    Inferred
+
+    A reasonable interpretation of available evidence, but not directly proven.
+
+    
+    
+    Hypothesis
+
+    A proposed explanation or recommendation that requires validation.
+
+    
+    
+    Unverifiable
+
+    Cannot currently be confirmed with available evidence.
+
+    For every testimonial, rating, customer number, performance statement or transformation claim, distinguish between:
+
+    The claim is publicly displayed
+
+    Evidence supporting the claim is shown
+
+    The claim was independently verified
+
+    
+    
+    
+    11. Risk-rating system
+
+    Do not combine usability severity, trust risk and legal-review priority into one score.
+
+    
+    Usability severity
+
+    0 — No meaningful usability issue observed
+
+    1 — Minor friction
+
+    2 — Moderate friction
+
+    3 — Serious obstruction
+
+    4 — Task-blocking failure
+
+    
+    
+    Trust risk
+
+    Low
+
+    Medium
+
+    High
+
+    Critical
+
+    
+    
+    Compliance-review priority
+
+    None identified
+
+    Review recommended
+
+    Specialist review required
+
+    Do not publish before specialist review
+
+    
+    
+    Confidence
+
+    Low
+
+    Medium
+
+    High
+
+    
+    
+    
+    12. Non-negotiable research rules
+
+    Never claim that a competitor converts well or badly without reliable conversion data.
+
+    Do not treat public likes, comments, followers or views as proof of revenue, purchases or website conversion.
+
+    Do not treat third-party estimates as first-party analytics.
+
+    Do not copy competitor copy, page layouts, product names, identities, claims or creative assets.
+
+    Do not treat personal preference as a UX conclusion.
+
+    Evaluate mobile and desktop separately.
+
+    Consider the visitor’s:
+
+    Traffic source
+
+    Entry page
+
+    Universe of interest
+
+    Awareness level
+
+    Buying stage
+
+    Existing familiarity with the brand
+
+    Flag:
+
+    Fake urgency
+
+    Misleading claims
+
+    Hidden conditions
+
+    Unclear subscription terms
+
+    Ambiguous AI identities
+
+    Invented credentials
+
+    Fabricated testimonials
+
+    Unverified social proof
+
+    Manipulative guarantees
+
+    Potentially deceptive countdown timers
+
+    Preselected paid options
+
+    Difficult cancellation or refund processes
+
+    Unclear product-delivery terms
+
+    Contradictory claims across pages
+
+    Do not recommend testimonials until genuine customer evidence exists.
+
+    Do not recommend numerical social proof unless it can be verified.
+
+    Do not assume that one mixed email newsletter is appropriate for all universes.
+
+    Do not recommend a cross-universe bundle as a launch requirement unless audience overlap is supported by evidence.
+
+    Do not place all AI disclosure information only on a general disclosure page.
+
+    Clearly distinguish between:
+
+    What can be evaluated now
+
+    What requires first-party analytics
+
+    What requires customer interviews
+
+    What requires usability testing
+
+    What requires accessibility testing
+
+    What requires performance testing
+
+    What requires legal review
+
+    What cannot be concluded
+
+    
+    
+    13. Research execution process
+
+    Do not complete the entire project as one unstructured report.
+
+    Follow the stages below in order.
+
+    
+    
+    Stage 0: Feasibility and evidence inventory
+
+    Before making recommendations, report:
+
+    URLs successfully accessed
+
+    URLs that failed
+
+    Redirects encountered
+
+    Login restrictions
+
+    Social-media access limitations
+
+    Geographical restrictions
+
+    Pages inspected
+
+    Policies inspected
+
+    Checkout steps inspected
+
+    Mobile test method
+
+    Desktop test method
+
+    Performance tools used
+
+    Accessibility tools used
+
+    Availability of field data
+
+    Availability of laboratory data
+
+    Evidence captured
+
+    Claims that could not be verified
+
+    Research date
+
+    Do not silently omit inaccessible competitors.
+
+    
+    
+    Stage 1: Research plan
+
+    Define:
+
+    Primary research questions
+
+    Universe-specific assumptions
+
+    Parent-brand assumptions
+
+    Proposed user segments
+
+    User problems
+
+    Primary and secondary conversions
+
+    Likely entry pages
+
+    Top user tasks
+
+    Main objections
+
+    Success criteria
+
+    Evidence requirements
+
+    Missing inputs
+
+    Research limitations
+
+    Create separate assumptions for:
+
+    Parent-brand visitors
+
+    Magnus visitors
+
+    Finance visitors
+
+    Health visitors
+
+    Cold social-media visitors
+
+    Existing followers
+
+    Returning visitors
+
+    Buyers
+
+    Newsletter subscribers
+
+    Sponsors
+
+    Media and licensing partners
+
+    Do not make final design recommendations during this stage.
+
+    
+    
+    Stage 2: Competitor classification and selection
+
+    Classify every supplied or newly recommended benchmark as:
+
+    Direct competitor
+
+    Search-result competitor
+
+    Indirect alternative
+
+    Character-commerce benchmark
+
+    Product-interface benchmark
+
+    Funnel benchmark
+
+    Social-content benchmark
+
+    Aspirational UX benchmark
+
+    Adjacent-industry inspiration
+
+    Select:
+
+    Three to four websites for deep review
+
+    Remaining websites for a lighter market scan
+
+    Relevant social accounts for content and funnel analysis
+
+    Explain why every deep-review website was selected.
+
+    The deep-review set should provide coverage across:
+
+    Character-led entertainment
+
+    AI pet-generation tools
+
+    Finance education and digital products
+
+    Wellness digital-product funnels
+
+    
+    
+    Stage 3: Individual website audits
+
+    Audit one website at a time.
+
+    Do not mix evidence from different competitors.
+
+    For each website:
+
+    
+    A. Page and funnel inventory
+
+    Identify:
+
+    Homepage
+
+    Main landing pages
+
+    Product pages
+
+    Shop or catalogue
+
+    Pricing
+
+    About
+
+    FAQ
+
+    Testimonials
+
+    Policies
+
+    Refund information
+
+    Disclosures
+
+    Checkout
+
+    Confirmation or delivery information
+
+    Social links
+
+    Newsletter entry points
+
+    
+    
+    B. Realistic tasks
+
+    Use relevant tasks such as:
+
+    
+    Magnus task
+
+    A visitor watches a pet Reel and opens the profile link.
+
+    They want to understand:
+
+    Whether the brand is about Magnus
+
+    Whether Magnus is a real cat
+
+    How AI is used
+
+    Whether they can generate content for their own pet
+
+    Whether they can watch more Magnus content
+
+    Whether products are available
+
+    
+    
+    Finance task
+
+    A visitor watches a finance Reel and opens the landing page.
+
+    They want to understand:
+
+    Whether the persona is real or AI-created
+
+    Whether the content is general education
+
+    Whether the persona is a financial adviser
+
+    What the paid product contains
+
+    What it costs
+
+    Whether the product is appropriate for them
+
+    What happens after purchase
+
+    
+    
+    Health task
+
+    A visitor watches a mental-clarity video and opens the landing page.
+
+    They want to understand:
+
+    Whether the programme is general wellbeing education
+
+    Whether it claims to provide treatment
+
+    What the daily commitment is
+
+    What is included
+
+    What evidence supports the claims
+
+    Whether the product is appropriate for them
+
+    
+    
+    Purchase task
+
+    A visitor wants to:
+
+    Compare an individual product with a bundle
+
+    Understand the price
+
+    Understand delivery
+
+    Find refund conditions
+
+    Complete checkout
+
+    Receive the purchased product
+
+    
+    
+    Trust task
+
+    A sceptical visitor wants to determine:
+
+    Who operates the brand
+
+    How AI is used
+
+    Whether claims are sourced
+
+    Whether personas are fictional
+
+    Who handles payment
+
+    Who handles refunds
+
+    Whether the product is appropriate
+
+    Whether the company appears accountable
+
+    
+    
+    
+    C. Task evidence
+
+    For each task, record:
+
+    Starting page
+
+    Traffic source
+
+    Awareness level
+
+    Steps
+
+    Clicks or interactions
+
+    Decisions required
+
+    Confusing elements
+
+    Errors or dead ends
+
+    Trust questions
+
+    Form friction
+
+    Completion outcome
+
+    Mobile-specific findings
+
+    Desktop-specific findings
+
+    
+    
+    D. Evaluation dimensions
+
+    Evaluate:
+
+    Relevance and message comprehension
+
+    Information architecture and content discovery
+
+    Task completion and conversion flow
+
+    Product clarity and commercial transparency
+
+    Trust, identity and evidence
+
+    Mobile usability
+
+    Accessibility
+
+    Performance
+
+    Ethical persuasion and privacy
+
+    Brand differentiation
+
+    Social-to-website continuity
+
+    AI disclosure
+
+    Editorial transparency
+
+    Finance or health claim boundaries
+
+    Error prevention and recovery
+
+    
+    
+    E. Finding format
+
+    For every important finding include:
+
+    Website
+
+    URL
+
+    Exact page
+
+    Exact section
+
+    Device
+
+    Task
+
+    Evidence status
+
+    Observation
+
+    Supporting evidence
+
+    UX or CRO principle
+
+    Usability severity
+
+    Trust risk
+
+    Compliance-review priority
+
+    Confidence
+
+    Likely user impact
+
+    Likely business impact
+
+    Recommendation
+
+    Estimated effort
+
+    Required validation method
+
+    
+    
+    
+    Stage 4: Social-media benchmark analysis
+
+    Keep social-media research separate from website research.
+
+    For each selected account, analyse only publicly observable information.
+
+    Record:
+
+    Account identity
+
+    Public bio
+
+    Disclosure wording
+
+    Content themes
+
+    Recurring formats
+
+    Hook construction
+
+    Storytelling structure
+
+    CTA style
+
+    Lead-magnet strategy
+
+    Comment-to-DM strategy
+
+    Link-in-bio structure
+
+    Website continuity
+
+    Product continuity
+
+    Authority positioning
+
+    Source attribution
+
+    Claim risks
+
+    Licensing or content-ownership risks
+
+    Public engagement indicators
+
+    Clearly state that public engagement does not prove:
+
+    Link clicks
+
+    Email signups
+
+    Product purchases
+
+    Revenue
+
+    Profitability
+
+    Audience demographics
+
+    Retention
+
+    Watch time
+
+    Commercial conversion
+
+    
+    
+    Stage 5: Claims and evidence audit
+
+    Create a separate claims register for:
+
+    Finance claims
+
+    Wellness claims
+
+    Psychological claims
+
+    Medical-sounding claims
+
+    Transformation claims
+
+    Testimonials
+
+    Customer numbers
+
+    Ratings
+
+    Guarantees
+
+    Savings claims
+
+    Product-result claims
+
+    AI-persona biographies
+
+    Credentials
+
+    Scarcity
+
+    Urgency
+
+    Refund promises
+
+    For every claim record:
+
+    Exact claim
+
+    Website or account
+
+    URL or location
+
+    Claim type
+
+    Evidence shown
+
+    Disclaimer or qualification
+
+    Contradictory information
+
+    Evidence status
+
+    Trust risk
+
+    Compliance-review priority
+
+    Whether TheWhiskrMind should avoid the pattern
+
+    
+    
+    Stage 6: Cross-competitor synthesis
+
+    After completing individual audits, identify:
+
+    Common market conventions
+
+    Useful patterns
+
+    Harmful patterns
+
+    Unmet customer needs
+
+    Content gaps
+
+    Trust gaps
+
+    Product-information gaps
+
+    Checkout gaps
+
+    Disclosure gaps
+
+    Mobile gaps
+
+    Accessibility gaps
+
+    Competitor weaknesses
+
+    Differentiation opportunities
+
+    Ideas that should not be copied
+
+    Questions requiring analytics
+
+    Questions requiring customer interviews
+
+    Questions requiring usability testing
+
+    Questions requiring legal review
+
+    Opportunities for clearer AI disclosure
+
+    Opportunities for stronger parent-brand trust
+
+    Opportunities for stronger social-to-landing-page continuity
+
+    Do not recommend a pattern merely because many competitors use it.
+
+    
+    
+    Stage 7: TheWhiskrMind strategy
+
+    Using the synthesis, produce a provisional website strategy.
+
+    Clearly label all recommendations as:
+
+    Launch requirement
+
+    Provisional recommendation
+
+    Hypothesis requiring validation
+
+    Post-launch improvement
+
+    Do not implement without evidence
+
+    
+    Parent homepage
+
+    Determine whether the parent homepage should primarily:
+
+    Explain TheWhiskrMind
+
+    Help visitors select a universe
+
+    Introduce the parent brand
+
+    Route existing followers
+
+    Promote the shop
+
+    Promote the newsletter
+
+    The provisional assumption is:
+
+    The parent homepage should primarily orient visitors and help them enter the relevant universe.
+
+    Validate this through prototype testing before treating it as final.
+
+    
+    
+    Positioning
+
+    Recommend:
+
+    Parent-brand positioning
+
+    Magnus positioning
+
+    Finance positioning
+
+    Health positioning
+
+    How the universes relate
+
+    How they remain separate
+
+    How future universes can be added
+
+    
+    
+    Sitemap
+
+    Recommend:
+
+    Parent routes
+
+    Universe routes
+
+    Product routes
+
+    Shop taxonomy
+
+    Content archives
+
+    Policies
+
+    Disclosures
+
+    Editorial pages
+
+    Media and partnership routes
+
+    
+    
+    Page architecture
+
+    Produce recommended structures for:
+
+    Parent homepage
+
+    Magnus landing page
+
+    Magnus episode or story page
+
+    Finance landing page
+
+    Health landing page
+
+    Shop
+
+    Product page
+
+    Bundle page
+
+    About page
+
+    Newsletter page
+
+    Editorial policy
+
+    AI disclosure page
+
+    Checkout
+
+    Thank-you and delivery page
+
+    Media or partnership page
+
+    
+    
+    CTA strategy
+
+    Define:
+
+    Primary CTA by page type
+
+    Secondary CTA by page type
+
+    CTA language principles
+
+    CTA placement
+
+    Mobile CTA behaviour
+
+    Social-entry CTA continuity
+
+    When purchase should not be the immediate CTA
+
+    
+    
+    Trust strategy
+
+    Recommend:
+
+    Operator identity
+
+    AI-use transparency
+
+    Persona transparency
+
+    Editorial standards
+
+    Source attribution
+
+    Product previews
+
+    Clear product contents
+
+    Payment transparency
+
+    Refund communication
+
+    Customer support
+
+    Genuine testimonials only after evidence exists
+
+    
+    
+    AI-disclosure strategy
+
+    Do not rely only on /disclosures.
+
+    Recommend disclosure at:
+
+    Parent-brand level
+
+    Universe level
+
+    Persona level
+
+    Content level
+
+    Product level where relevant
+
+    For Magnus, clarify:
+
+    Magnus is a real cat
+
+    Real references are used
+
+    AI assists cinematic production
+
+    Stories may contain fictionalised elements
+
+    For Finance, clarify:
+
+    The persona is AI-created
+
+    The persona does not possess fabricated credentials
+
+    Content is general education
+
+    Content is not personalised financial advice
+
+    For Health, clarify:
+
+    The content is general wellbeing education
+
+    It does not provide diagnosis or treatment
+
+    Claims require appropriate evidence and review
+
+    
+    
+    Email strategy
+
+    Use:
+
+    One technical email platform
+
+    One customer identity
+
+    Separate universe tags
+
+    Separate welcome sequences
+
+    Separate product sequences
+
+    Separate content preferences
+
+    A preference centre
+
+    Clear consent choices
+
+    Recommended preference categories may include:
+
+    Magnus
+
+    Finance
+
+    Health and clarity
+
+    Product announcements
+
+    Parent-brand news
+
+    Do not automatically send Finance or Health content to Magnus subscribers without relevant consent or preference.
+
+    
+    
+    Bundle strategy
+
+    Do not treat the proposed $29 cross-universe bundle as a launch requirement.
+
+    First evaluate:
+
+    Magnus-specific bundle
+
+    Finance-specific bundle
+
+    Health-specific bundle
+
+    Introduce a cross-universe bundle only when actual behaviour indicates meaningful audience overlap.
+
+    
+    
+    Technical and quality requirements
+
+    Recommend:
+
+    Mobile requirements
+
+    Tablet requirements
+
+    Desktop requirements
+
+    Accessibility requirements
+
+    WCAG 2.2 testing
+
+    Performance requirements
+
+    LCP, INP and CLS monitoring
+
+    Checkout reliability
+
+    Digital-delivery reliability
+
+    Analytics implementation
+
+    Consent management
+
+    Content-management requirements
+
+    
+    
+    
+    Stage 8: Validation and measurement
+
+    
+    Analytics plan
+
+    Define events such as:
+
+    Parent homepage viewed
+
+    Universe selected
+
+    Magnus episode viewed
+
+    Additional episode viewed
+
+    Finance sample viewed
+
+    Health sample viewed
+
+    Newsletter form started
+
+    Newsletter signup completed
+
+    Preference selected
+
+    Shop viewed
+
+    Product viewed
+
+    Product preview opened
+
+    Add to cart
+
+    Checkout started
+
+    Checkout completed
+
+    Purchase delivered
+
+    Refund requested
+
+    Social link clicked
+
+    Media-kit viewed
+
+    Partnership enquiry submitted
+
+    For each event include:
+
+    Event name
+
+    Trigger
+
+    Required properties
+
+    Funnel stage
+
+    Business purpose
+
+    
+    
+    Prototype-testing plan
+
+    Create tasks for:
+
+    Understanding the parent brand
+
+    Selecting the correct universe
+
+    Understanding Magnus and AI involvement
+
+    Identifying whether the Finance persona is fictional
+
+    Understanding Finance product contents
+
+    Understanding Health product boundaries
+
+    Comparing products
+
+    Finding refund information
+
+    Completing checkout
+
+    Managing newsletter preferences
+
+    
+    
+    Customer interviews
+
+    Prepare research questions covering:
+
+    Why people follow each content universe
+
+    What they expect after clicking a social link
+
+    Trust concerns
+
+    AI-identity expectations
+
+    Product-format preferences
+
+    Purchase motivations
+
+    Objections
+
+    Willingness to pay
+
+    Email-content preferences
+
+    Interest overlap between universes
+
+    Do not use leading questions.
+
+    
+    
+    Content pilot evaluation
+
+    The proposed two-to-three-week Magnus and Finance content comparison should be treated as an early pilot, not a final business conclusion.
+
+    Compare:
+
+    Number of posts
+
+    Content format
+
+    Posting time
+
+    Reach
+
+    Three-second views
+
+    Completion rate
+
+    Saves
+
+    Shares
+
+    Profile visits
+
+    Link clicks
+
+    Email signups
+
+    Product-page visits
+
+    Purchases
+
+    Revenue per visitor
+
+    Production time
+
+    Production cost
+
+    Ability to produce content consistently
+
+    Normalise comparisons where possible.
+
+    Possible pilot outcomes should include:
+
+    Continue
+
+    Adjust
+
+    Collect more data
+
+    Pause
+
+    Scale cautiously
+
+    Do not declare one universe the permanent winner after a small or unequal test.
+
+    
+    
+    
+    14. Missing-data register
+
+    Create a table containing:
+
+    Missing input
+
+    Why it matters
+
+    Which decision it affects
+
+    How it should be collected
+
+    Priority
+
+    Whether research can continue without it
+
+    At minimum include:
+
+    Final parent-homepage conversion
+
+    Final conversion for each universe
+
+    Priority Finance segment
+
+    Priority Health segment
+
+    Existing social-media accounts
+
+    Existing Magnus URLs
+
+    Existing Finance URLs
+
+    Existing Health URLs
+
+    Social analytics from the previous 30–90 days
+
+    Retention and watch-time data
+
+    Saves and shares
+
+    Profile visits
+
+    Link-in-bio clicks
+
+    Email-list data
+
+    Final product names
+
+    Final product contents
+
+    Final prices
+
+    Product samples
+
+    Refund policy
+
+    Guarantee terms
+
+    Technology stack
+
+    Ecommerce platform
+
+    Payment provider
+
+    Email platform
+
+    Digital-delivery system
+
+    Development budget
+
+    Launch timeline
+
+    Team and content capacity
+
+    Finance legal review
+
+    Wellness legal review
+
+    Privacy and cookie requirements
+
+    Accessibility ownership
+
+    Customer interviews
+
+    Buyer interviews
+
+    Finance-specific competitor validation
+
+    Do not stop the public competitor review merely because some first-party data is missing. Continue where evidence is available and label the limitation.
+
+    
+    
+    15. Final deliverables
+
+    Provide the work in this order:
+
+    Executive summary
+
+    Feasibility and evidence inventory
+
+    Research assumptions and limitations
+
+    Competitor classification
+
+    Deep-review competitor selection
+
+    Individual website audits
+
+    Social-content benchmark analysis
+
+    Claims and evidence register
+
+    Competitor comparison matrix
+
+    Cross-competitor synthesis
+
+    Prioritised opportunity backlog
+
+    Recommended parent-brand strategy
+
+    Recommended universe strategies
+
+    Proposed sitemap
+
+    Primary user flows
+
+    Homepage content architecture
+
+    Universe-page architecture
+
+    Product and checkout strategy
+
+    Email segmentation model
+
+    AI and editorial disclosure model
+
+    Analytics event plan
+
+    Prototype and usability-testing plan
+
+    Content-pilot measurement plan
+
+    Missing-data register
+
+    Customer-interview questions
+
+    Legal and ethical review flags
+
+    Launch requirements
+
+    Post-launch improvements
+
+    Hypotheses requiring validation
+
+    Recommendations that should not be implemented without evidence
+
+    
+    
+    16. Output requirements
+
+    For every major recommendation:
+
+    Identify the supporting evidence
+
+    State whether it is observed, measured, inferred or hypothetical
+
+    Explain the user problem
+
+    Explain the likely business impact
+
+    State the confidence level
+
+    State the required validation method
+
+    State whether it is required for launch
+
+    Do not begin visual design or final copywriting until:
+
+    The available competitor evidence has been reviewed
+
+    The parent and universe objectives have been provisionally defined
+
+    The sitemap and key user journeys have been evaluated
+
+    Important trust and disclosure requirements have been documented
+
+    The final goal is not to produce a website that looks more attractive than competitors.
+
+    The final goal is to create a website that helps visitors:
+
+    Understand TheWhiskrMind
+
+    Select the relevant universe
+
+    Understand what is real, fictional or AI-assisted
+
+    Discover relevant content
+
+    Evaluate digital products
+
+    Understand prices and policies
+
+    Trust the brand appropriately
+
+    Complete their intended task
+
+    Control their newsletter preferences
+
+    Make informed purchasing decisions
+
+    Every final recommendation must support at least one of these outcomes.
+
+    
+    
+      
+        
+                
+        
+        
+              
+      
+    
+  
+
