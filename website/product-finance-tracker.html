@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personal-Finance Tracker | TheWhiskrMind</title>
+  <meta name="description" content="Record, organise and review basic financial information.">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://gumroad.com/js/gumroad.js"></script>
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+  <style>
+    .product-details-grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(40px, 6vw, 80px); align-items: start; }
+    @media (max-width: 900px) { .product-details-grid { grid-template-columns: 1fr; } }
+    .product-gallery img { border-radius: var(--r-xl); width: 100%; border: 1px solid var(--ink-line-strong); box-shadow: var(--shadow-lift); transition: transform var(--slow) var(--ease); }
+    .product-gallery:hover img { transform: scale(1.02); }
+    .product-price { font-family: var(--font-mono); font-size: 2rem; font-weight: 500; color: var(--ink-950); margin-block: 16px; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark"></span>TheWhiskrMind</a>
+      <nav class="main-nav"><a href="index.html">Home</a><a href="magnus.html">Magnus</a><a href="finance.html" class="active">Finance</a><a href="health.html">Health &amp; Wellness</a><a href="shop.html">Shop</a><a href="about.html">About</a></nav>
+      <div class="header-actions"><a href="shop.html" class="btn btn-brand btn-sm">Browse All Products</a></div>
+    </div>
+  </header>
+  <main id="main">
+    <div class="container section">
+      <a href="shop.html" style="display: inline-block; margin-bottom: 24px; color: var(--text-muted); font-size: 0.9rem; font-weight: 600;">← Back to Shop</a>
+      <div class="product-details-grid">
+        <div class="product-gallery"><img src="images/hero_main_1786616890034.png" alt="Personal-Finance Tracker" /></div>
+        <div class="product-info stack gap-sm">
+          <div><span class="badge badge-finance">Finance Universe</span></div>
+          <h1 class="h-display" style="font-size: clamp(2rem, 3.5vw, 3rem); line-height: 1.1;">Personal-Finance Tracker</h1>
+          <div class="product-price">$19.00</div>
+          <p class="lede" style="margin-bottom: 12px;">A highly organized, aesthetically pleasing Notion & Excel template to track your net worth, expenses, and investment goals without the overwhelm.</p>
+          <div class="callout callout-finance mt-md" style="margin-bottom: 16px;">
+            <h4 style="margin-bottom: 12px; font-size: 1.1rem;">What's included:</h4>
+            <ul class="checklist">
+              <li>Notion Template Workspace</li>
+              <li>Google Sheets / Excel Format included</li>
+              <li>Automated Dashboard & Charts</li>
+              <li>Expense Categorization System</li>
+            </ul>
+          </div>
+          <div class="checkout-actions stack gap-sm mt-md">
+            <a href="https://gum.co/demo?wanted=true" data-gumroad-overlay-checkout="true" class="btn btn-primary btn-block" style="height: 64px; font-size: 1.1rem; justify-content: center;">Buy Now (Global) — $19.00</a>
+            <button id="rzp-button" class="btn btn-outline btn-block" style="height: 52px; font-size: 1rem; border-color: #3395FF; color: #3395FF;">Pay with UPI / Razorpay (India Only) — ₹1550</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script>
+    document.getElementById('rzp-button').onclick = function(e){
+        var rzp = new Razorpay({ "key": "rzp_test_dummykey123", "amount": "155000", "currency": "INR", "name": "TheWhiskrMind", "description": "Finance Tracker", "theme": { "color": "#1e6b57" } });
+        rzp.open(); e.preventDefault();
+    }
+  </script>
+</body>
+</html>

@@ -381,7 +381,8 @@ p { color: var(--text-body); }
   border: 1px solid var(--ink-line-strong);
   box-shadow: var(--shadow-lift);
 }
-.hero-media img { width: 100%; height: 100%; object-fit: cover; }
+.hero-media:hover img { transform: scale(1.03); }
+.hero-media img { width: 100%; height: 100%; object-fit: cover; transition: transform var(--slow) var(--ease); }
 .hero-media .frame-label {
   position: absolute; left: 18px; bottom: 18px;
   color: var(--text-on-dark);
@@ -403,7 +404,7 @@ p { color: var(--text-body); }
   padding: 30px;
   transition: transform var(--normal) var(--ease), box-shadow var(--normal) var(--ease), border-color var(--normal) var(--ease);
 }
-.card:hover { transform: translateY(-4px); box-shadow: var(--shadow-card); border-color: var(--ink-line-strong); }
+.card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lift); border-color: var(--ink-line-strong); }
 
 .universe-card {
   position: relative;
@@ -416,9 +417,13 @@ p { color: var(--text-body); }
   gap: 18px;
   min-height: 340px;
   overflow: hidden;
-  transition: transform var(--normal) var(--ease), box-shadow var(--normal) var(--ease);
+  transition: transform var(--normal) var(--ease), box-shadow var(--normal) var(--ease), border-color var(--normal) var(--ease);
 }
-.universe-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-card); }
+.universe-card:hover { 
+  transform: translateY(-6px); 
+  box-shadow: 0 20px 40px -15px var(--tint); 
+  border-color: var(--tint);
+}
 .universe-card::before {
   content: "";
   position: absolute; inset: 0 0 auto 0; height: 4px;
@@ -451,9 +456,10 @@ p { color: var(--text-body); }
   flex-direction: column;
   transition: transform var(--normal) var(--ease), box-shadow var(--normal) var(--ease);
 }
-.product-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-card); }
+.product-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-lift); }
+.product-card:hover .product-media img { transform: scale(1.05); }
 .product-media { aspect-ratio: 4/3; background: linear-gradient(155deg, var(--paper-200), var(--paper-100)); position: relative; overflow: hidden; }
-.product-media img { width: 100%; height: 100%; object-fit: cover; }
+.product-media img { width: 100%; height: 100%; object-fit: cover; transition: transform var(--slow) var(--ease); }
 .product-media .price-chip {
   position: absolute; top: 14px; right: 14px;
   background: var(--ink-950); color: var(--paper-0);
@@ -614,7 +620,8 @@ p { color: var(--text-body); }
   aspect-ratio: 4/3;
   background: linear-gradient(155deg, var(--paper-200), var(--paper-100));
 }
-.media-frame img { width: 100%; height: 100%; object-fit: cover; }
+.media-frame:hover img { transform: scale(1.04); }
+.media-frame img { width: 100%; height: 100%; object-fit: cover; transition: transform var(--slow) var(--ease); }
 .media-frame.dark { background: linear-gradient(155deg, var(--ink-800), var(--ink-950)); border-color: var(--ink-on-dark-line); }
 
 .skip-link {

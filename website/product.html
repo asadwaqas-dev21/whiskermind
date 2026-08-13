@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Magnus Wallpaper & Sticker Pack | TheWhiskrMind</title>
+  <meta name="description"
+    content="Bring Magnus into your everyday digital world with character artwork, wallpapers and shareable stickers.">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://gumroad.com/js/gumroad.js"></script>
+  <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+  <style>
+    .product-details-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: clamp(40px, 6vw, 80px);
+      align-items: start;
+    }
+
+    @media (max-width: 900px) {
+      .product-details-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .product-gallery img {
+      border-radius: var(--r-xl);
+      width: 100%;
+      border: 1px solid var(--ink-line-strong);
+      box-shadow: var(--shadow-lift);
+      transition: transform var(--slow) var(--ease);
+    }
+
+    .product-gallery:hover img {
+      transform: scale(1.02);
+    }
+
+    .product-price {
+      font-family: var(--font-mono);
+      font-size: 2rem;
+      font-weight: 500;
+      color: var(--ink-950);
+      margin-block: 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><span class="logo-mark" aria-hidden="true"></span>TheWhiskrMind</a>
+      <nav class="main-nav" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="magnus.html" class="active">Magnus</a>
+        <a href="finance.html">Finance</a>
+        <a href="health.html">Health &amp; Wellness</a>
+        <a href="shop.html">Shop</a>
+        <a href="about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <a href="newsletter.html" class="btn btn-outline btn-sm">Newsletter</a>
+        <a href="shop.html" class="btn btn-brand btn-sm">Browse All Products</a>
+        <button class="nav-toggle" aria-label="Open menu"
+          aria-expanded="false"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+
+  <nav class="mobile-nav" aria-label="Mobile">
+    <a href="index.html">Home</a>
+    <a href="magnus.html">Magnus</a>
+    <a href="finance.html">Finance</a>
+    <a href="health.html">Health &amp; Wellness</a>
+    <a href="shop.html">Shop</a>
+    <a href="about.html">About</a>
+    <a href="newsletter.html">Newsletter</a>
+    <a href="shop.html" class="btn btn-brand btn-block">Browse All Products</a>
+  </nav>
+
+  <main id="main">
+
+    <div class="container section">
+      <a href="shop.html"
+        style="display: inline-block; margin-bottom: 24px; color: var(--text-muted); font-size: 0.9rem; font-weight: 600;">←
+        Back to Shop</a>
+
+      <div class="product-details-grid">
+        <!-- Product Image Gallery -->
+        <div class="product-gallery">
+          <img src="images/media__1786616529581.png" alt="Magnus Wallpaper & Sticker Pack" />
+        </div>
+
+        <!-- Product Info & Checkout -->
+        <div class="product-info stack gap-sm">
+          <div>
+            <span class="badge badge-magnus">Magnus Universe</span>
+          </div>
+          <h1 class="h-display" style="font-size: clamp(2rem, 3.5vw, 3rem); line-height: 1.1;">Magnus Wallpaper &amp;
+            Sticker Pack</h1>
+
+          <div class="product-price">$5.00</div>
+
+          <p class="lede" style="margin-bottom: 12px;">Bring Magnus into your everyday digital world. This premium
+            digital pack contains high-resolution cinematic wallpapers for all your devices and beautifully crafted
+            digital stickers featuring your favorite cat.</p>
+
+          <div class="callout callout-magnus mt-md" style="margin-bottom: 16px;">
+            <h4 style="margin-bottom: 12px; font-size: 1.1rem;">What's included:</h4>
+            <ul class="checklist">
+              <li>5 High-Resolution Desktop Wallpapers (4K UHD)</li>
+              <li>10 Custom Mobile Wallpapers</li>
+              <li>25 Digital Stickers (Transparent PNGs)</li>
+              <li>Instant digital download (.ZIP file)</li>
+            </ul>
+          </div>
+
+          <!-- Payment / Checkout Buttons -->
+          <div class="checkout-actions stack gap-sm mt-md">
+            <!-- Gumroad Embedded Checkout -->
+            <a href="https://gum.co/demo?wanted=true" data-gumroad-overlay-checkout="true"
+              class="btn btn-primary btn-block" style="height: 64px; font-size: 1.1rem; justify-content: center;">Buy
+              Now (Global) — $5.00</a>
+
+            <!-- Razorpay Embedded Checkout for India -->
+            <button id="rzp-button" class="btn btn-outline btn-block"
+              style="height: 52px; font-size: 1rem; border-color: #3395FF; color: #3395FF;">Pay with UPI / Razorpay
+              (India Only) — ₹400</button>
+          </div>
+
+          <div class="trust-list mt-md">
+            <ul class="not-list" style="font-size: 0.85rem;">
+              <li>Secure embedded checkout (No redirects)</li>
+              <li>Files delivered instantly to your inbox</li>
+              <li>100% digital product, zero shipping fees</li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="site-footer">
+    <div class="container footer-grid">
+      <div class="footer-brand">
+        <a href="index.html" class="logo">TheWhiskrMind</a>
+        <p>Where deep thinking meets real living.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="magnus.html">Magnus</a></li>
+          <li><a href="finance.html">Finance</a></li>
+          <li><a href="health.html">Health &amp; Wellness</a></li>
+          <li><a href="shop.html">Shop</a></li>
+          <li><a href="newsletter.html">Newsletter</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <ul>
+          <li><a href="about.html">About</a></li>
+          <li><a href="about.html#contact">Contact</a></li>
+          <li><a href="about.html#media">Media &amp; Partnerships</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Standards</h4>
+        <ul>
+          <li><a href="editorial-policy.html">Editorial Policy</a></li>
+          <li><a href="ai-disclosures.html">AI Disclosures</a></li>
+          <li><a href="finance.html#disclaimer">Finance Disclaimer</a></li>
+          <li><a href="health.html#trust">Wellness Disclaimer</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Legal</h4>
+        <ul>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Cookie Policy</a></li>
+          <li><a href="#">Terms</a></li>
+          <li><a href="#">Refund Policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <span>© <span data-year></span> TheWhiskrMind. All rights reserved.</span>
+      <span class="legal-links">
+        <a href="newsletter.html">Manage Email Preferences</a>
+      </span>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>
+    // Embedded Razorpay Checkout Integration
+    document.getElementById('rzp-button').onclick = function (e) {
+      var options = {
+        "key": "rzp_test_dummykey123", // Dummy key for demo
+        "amount": "40000", // 400 INR in paisa
+        "currency": "INR",
+        "name": "TheWhiskrMind",
+        "description": "Magnus Wallpaper & Sticker Pack",
+        "image": "images/media__1786616529581.png", // Magnus cat image
+        "handler": function (response) {
+          alert("Payment Successful! (This is a demo)");
+        },
+        "theme": {
+          "color": "#15130f" // Brand color (ink-950)
+        }
+      };
+      var rzp = new Razorpay(options);
+      rzp.open();
+      e.preventDefault();
+    }
+  </script>
+</body>
+
+</html>
